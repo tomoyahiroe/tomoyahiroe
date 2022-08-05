@@ -1,23 +1,67 @@
-## Hi there👋
-
-- 🧐 I'm interested in Nuxt.js and Nest.js
-
-- 🌱 I'm currently learning Typescript and Node.js
-
-- 🎓 I'm majoring in Economics at Yokohama National University
-
-- ✍️ As a student, I am interested in mathematical statistics and data science.
-
-## I've used...
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="30" height="30"/>
-
-## I'm learning...
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="30" height="30"/>
-
-## Current works
-
-- [mini_blog](https://github.com/tomoyahiroe/mini_blog) : blog site made with Nuxt.js and microCMS([site link](https://main.d1fxh0yqefm28c.amplifyapp.com/blog))
-
-- [contribution_meter](https://github.com/tomoyahiroe/contribution_meter) : this program can measure user's contributions on your ternimal
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="top-image"><img src="./my_tech_status.png" /></div>
+    <div class="hello">
+      <h2 style="color: #06ff06">Hi there👋</h2>
+      <p>
+        Thanks for visiting my github page! My name is Tomoya Hiroe. I'm
+        majoring Economics at Yokohama National University.
+      </p>
+      <p>
+        I wanna know how the things we use work and make them myself. That's why
+        I started to learn programming. I'm currently learning backend
+        programming with TypeScript.
+      </p>
+      <p>Other areas of my interest are ...</p>
+      <ul>
+        <li>📈Statistics and data science</li>
+        <li>📚Behavioral Economics</li>
+        <li>🎾Playing soft tennis</li>
+        <li>📀Watching animes</li>
+      </ul>
+    </div>
+    <div class="works">
+      <h2 style="color: #06ff06">Works💪</h2>
+      <ul>
+        <li>
+          <a href="https://github.com/tomoyahiroe/mini_blog">mini_blog</a> :
+          blog site made with Nuxt.js and microCMS(<a
+            href="https://main.d1fxh0yqefm28c.amplifyapp.com/blog"
+            >site link</a
+          >)
+        </li>
+        <li>
+          <a href="https://github.com/tomoyahiroe/contribution_meter"
+            >contribution_meter</a
+          >
+          : this program can measure user's contributions on your ternimal
+        </li>
+      </ul>
+    </div>
+    <div class="active-repository">
+      <h2 style="color: #06ff06">Active repositories💨</h2>
+      <ul>
+        <li>
+          <a href="https://github.com/tomoyahiroe/mini_blog">mini_blog</a> :
+          blog site made with Nuxt.js and microCMS(<a
+            href="https://main.d1fxh0yqefm28c.amplifyapp.com/blog"
+            >site link</a
+          >)
+        </li>
+        <li>
+          <a href="https://github.com/tomoyahiroe/todoapp"
+            >todoapp</a
+          >
+          : todoapp made with express.js
+        </li>
+      </ul>
+    </div>
+  </body>
+</html>
