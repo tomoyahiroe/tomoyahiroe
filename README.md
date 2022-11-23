@@ -18,7 +18,7 @@
         <li>📈Statistics and data science</li>
         <li>📚Behavioral Economics</li>
         <li>🎾Playing soft tennis</li>
-        <li>📀Watching animes</li>
+        <li>📀Watching anime( I love Natsume's Book of Friends.)</li>
       </ul>
     </div>
     <div class="works">
