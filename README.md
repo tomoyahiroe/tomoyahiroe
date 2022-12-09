@@ -26,7 +26,7 @@
       <ul>
         <li>
           <a href="https://github.com/tomoyahiroe/mini_blog">mini_blog</a> :
-          blog site made with Nuxt.js and microCMS(<a
+          Blog site made with Nuxt.js and microCMS(<a
             href="https://main.d1fxh0yqefm28c.amplifyapp.com/blog"
             >site link</a
           >)
@@ -35,7 +35,13 @@
           <a href="https://github.com/tomoyahiroe/contribution_meter"
             >contribution_meter</a
           >
-          : this program can measure user's contributions on your ternimal
+          : To run this code, you can measure user's github contributions on your terminal
+        </li>
+        <li>
+          <a href="https://github.com/tomoyahiroe/TWITTER_analyzer"
+            >TWITTER_analyzer</a
+          >
+          : To run this code, you can get csv file that consists of user's tweets data. 
         </li>
       </ul>
     </div>
@@ -50,10 +56,10 @@
           >)
         </li>
         <li>
-          <a href="https://github.com/tomoyahiroe/todoapp"
-            >todoapp</a
+          <a href="https://github.com/tomoyahiroe/laravel-todo"
+            >Todo App</a
           >
-          : todoapp made with express.js
+          : Todo App made with Laravel
         </li>
       </ul>
     </div>
