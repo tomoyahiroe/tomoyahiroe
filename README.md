@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <body>
-    <div class="top-image" style="margin: 0 auto"><img src="./my_tech_status.png" style="max-height: 200px"/></div>
+    <div class="top-image" style="margin: 0 auto"><img src="./my_tech_status.jpg" style="max-height: 200px"/></div>
     <div class="hello">
       <h2 style="color: #06ff06">Hi there👋</h2>
       <p>
