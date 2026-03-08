@@ -7,7 +7,7 @@ I am interested in applying economic frameworks to real-world problems and utili
 ### Skills
 - **Economic Analysis:** R, Python
 - **Web Development:** TypeScript, JavaScript
-- **Infrastructure:** Docker, GitHub
+- **Infrastructure:** Docker
 
 ### Links
 - [tomoyahiroe.net](https://tomoyahiroe.net)
