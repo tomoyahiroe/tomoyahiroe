@@ -1,6 +1,6 @@
 # Tomoya Hiroe
 
-Master 1 Economics student with 3 months of experience as a web engineering intern. 
+Master 2 Economics student.
 
 I am interested in applying economic frameworks to real-world problems and utilizing the analytical tools developed within the field.
 
